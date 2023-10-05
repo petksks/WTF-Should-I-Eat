@@ -1,4 +1,4 @@
-import MealFetcher from "@/components/page"
+import MealFetcher from "@/components/MealFetcher/page"
 
 export default function Home() {
   return (
